@@ -15,7 +15,7 @@ except ImportError:
     feedparser = None
 
 from config import (
-    HIGH_PRIORITY_KEYWORDS, LOW_PRIORITY_KEYWORDS,
+    HIGH_PRIORITY_KEYWORDS, LOW_PRIORITY_KEYWORDS, EXCLUDE_KEYWORDS,
     AMOUNT_THRESHOLD, SCORE_THRESHOLD, EXCLUDED_REGION_PATTERNS,
     CANPAN_BASE_URL, NPOWEB_RSS_URL, JFC_URL,
     REQUEST_DELAY, REQUEST_TIMEOUT, MAX_PAGES, HEADERS, DATA_DIR,
@@ -474,6 +474,10 @@ def run():
         if score < SCORE_THRESHOLD:
             continue
         if not region_ok:
+            continue
+        # 除外キーワードチェック（助成金名・カテゴリに含まれる場合は除外）
+        exclude_target = grant.get("name", "") + grant.get("categories", "")
+        if any(kw in exclude_target for kw in EXCLUDE_KEYWORDS):
             continue
         if grant.get("amount_value") and grant["amount_value"] < AMOUNT_THRESHOLD:
             continue
