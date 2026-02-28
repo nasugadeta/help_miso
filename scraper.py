@@ -16,6 +16,7 @@ except ImportError:
 
 from config import (
     HIGH_PRIORITY_KEYWORDS, LOW_PRIORITY_KEYWORDS, EXCLUDE_KEYWORDS,
+    STUDENT_ONLY_PATTERNS,
     AMOUNT_THRESHOLD, SCORE_THRESHOLD, EXCLUDED_REGION_PATTERNS,
     CANPAN_BASE_URL, NPOWEB_RSS_URL, JFC_URL,
     REQUEST_DELAY, REQUEST_TIMEOUT, MAX_PAGES, HEADERS, DATA_DIR,
@@ -100,10 +101,31 @@ def check_region(text: str) -> tuple[bool, str]:
         r"対象エリア[：:]\s*(.+?)(?:\n|$)",
         r"助成対象[：:]\s*(.+?)(?:に所在|に拠点)",
     ]
+    extracted_region = ""
     for pat in region_patterns:
         m = re.search(pat, text)
         if m:
-            return True, m.group(1).strip()[:60]
+            extracted_region = m.group(1).strip()[:60]
+            break
+
+    if extracted_region:
+        # 東京・千葉以外の地域に特化したものを事前除外
+        ALLOWED_KWS = ["東京", "千葉", "全国", "日本", "関東", "首都圏", "全域", "指定なし", "制限なし", "問わない"]
+        OTHER_PREFS = [
+            "北海道", "青森", "岩手", "宮城", "秋田", "山形", "福島",
+            "茨城", "栃木", "群馬", "埼玉", "神奈川", "新潟", "富山",
+            "石川", "福井", "山梨", "長野", "岐阜", "静岡", "愛知",
+            "三重", "滋賀", "京都", "大阪", "兵庫", "奈良", "和歌山",
+            "鳥取", "島根", "岡山", "広島", "山口", "徳島", "香川",
+            "愛媛", "高知", "福岡", "佐賀", "長崎", "熊本", "大分",
+            "宮崎", "鹿児島", "沖縄"
+        ]
+        has_other = any(pref in extracted_region for pref in OTHER_PREFS)
+        has_allowed = any(kw in extracted_region for kw in ALLOWED_KWS)
+        if has_other and not has_allowed:
+            return False, extracted_region
+            
+        return True, extracted_region
 
     return True, "指定なし"
 
@@ -480,8 +502,13 @@ def run():
         if not region_ok:
             continue
         # 除外キーワードチェック（助成金名・カテゴリに含まれる場合は除外）
-        exclude_target = grant.get("name", "") + grant.get("categories", "")
+        exclude_target = grant.get("name", "") + grant.get("categories", "") + grant.get("summary", "")
         if any(kw in exclude_target for kw in EXCLUDE_KEYWORDS):
+            continue
+            
+        # 学生特化の除外チェック
+        student_target = grant.get("name", "") + grant.get("categories", "")
+        if any(re.search(pat, student_target) for pat in STUDENT_ONLY_PATTERNS):
             continue
         if grant.get("amount_value") and grant["amount_value"] < AMOUNT_THRESHOLD:
             continue

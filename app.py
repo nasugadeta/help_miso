@@ -4,7 +4,7 @@ import json
 import re
 from pathlib import Path
 from datetime import datetime, date
-from config import EXCLUDE_KEYWORDS
+from config import EXCLUDE_KEYWORDS, STUDENT_ONLY_PATTERNS
 
 DATA_FILE = Path(__file__).parent / "data" / "grants.json"
 
@@ -64,8 +64,12 @@ def apply_exclude_filter(grants: list) -> list:
         if "新着" in name and "件" in name:
             continue
         # 除外キーワードチェック
-        target = name + g.get("categories", "")
+        target = name + g.get("categories", "") + g.get("summary", "")
         if any(kw in target for kw in EXCLUDE_KEYWORDS):
+            continue
+        # 学生限定のチェック
+        student_target = name + g.get("categories", "")
+        if any(re.search(pat, student_target) for pat in STUDENT_ONLY_PATTERNS):
             continue
         result.append(g)
     return result
