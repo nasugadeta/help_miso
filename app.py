@@ -190,31 +190,45 @@ def main():
 
     st.markdown(f"**{len(filtered)}件** 表示中（全{len(grants)}件中）")
 
-    # --- 助成金カード ---
+    # --- 助成金一覧 ---
     for grant in filtered:
         is_new = grant.get("is_new", False)
         title_prefix = "🆕 " if is_new else ""
-        deadline_text = deadline_badge(grant.get("deadline", ""))
+        deadline_str = grant.get("deadline", "")
+        days = days_until_deadline(deadline_str)
+        amount_label = grant.get("amount_text") or format_amount(grant.get("amount_value"))
 
-        with st.expander(
-            f"{title_prefix}{grant['name']}　|　{grant.get('source', '')}",
-            expanded=is_new,
-        ):
-            c1, c2, c3 = st.columns([3, 1, 1])
+        # 締切の色付き表示
+        if not deadline_str:
+            deadline_label = "締切不明"
+        elif days is not None and days < 0:
+            deadline_label = f"~~{deadline_str}~~"
+        elif days is not None and days <= 14:
+            deadline_label = f":red[{deadline_str}（残{days}日）]"
+        elif days is not None and days <= 30:
+            deadline_label = f":orange[{deadline_str}（残{days}日）]"
+        else:
+            deadline_label = deadline_str if deadline_str else "締切不明"
+
+        # タイトル行に金額・締切を表示
+        header = (
+            f"{title_prefix}**{grant['name']}**"
+            f"　　💰 {amount_label}"
+            f"　　📅 {deadline_label}"
+            f"　　`{grant.get('source', '')}`"
+        )
+
+        with st.expander(header, expanded=is_new):
+            c1, c2 = st.columns([3, 1])
 
             with c1:
                 if grant.get("organization"):
                     st.markdown(f"**助成団体:** {grant['organization']}")
                 if grant.get("summary"):
-                    st.markdown(f"**概要:** {grant['summary'][:200]}")
+                    st.markdown(f"**概要:** {grant['summary'][:300]}")
 
             with c2:
-                st.markdown(f"**金額:** {grant.get('amount_text') or format_amount(grant.get('amount_value'))}")
-                st.markdown(f"**締切:** {deadline_text}")
                 st.markdown(f"**ステータス:** {grant.get('status', '不明')}")
-
-            with c3:
-                st.markdown(f"**情報源:** {grant.get('source', '不明')}")
                 st.markdown(f"**発見日:** {grant.get('found_date', '不明')}")
                 st.markdown(f"**地域:** {grant.get('region', '指定なし')}")
 
