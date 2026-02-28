@@ -18,7 +18,26 @@
       "mcp__Claude_Preview__preview_start",
       "Bash(git init)",
       "Bash(git add .)",
-      "Bash(git commit -m \"Initial commit: Grant finder dashboard for manma NPO\")"
+      "Bash(git commit -m \"Initial commit: Grant finder dashboard for manma NPO\")",
+      "Bash(git branch -m master main)",
+      "Bash(git remote add origin https://github.com/nasugadata/help_miso.git)",
+      "Bash(git push -u origin main --force)",
+      "Bash(gh --version)",
+      "Bash(brew install gh)",
+      "Bash(gh auth login --skip-git-config 2)",
+      "Bash(1:*)",
+      "Bash(gh auth status)",
+      "Bash(git remote set-url origin https://github.com/nasugadeta/help_miso.git)",
+      "Bash(gh repo view nasugadeta/help_miso --json name,url,defaultBranchRef)",
+      "Bash(git add config.py scraper.py)",
+      "Bash(git commit -m \"Add exclude keywords filter for irrelevant grant categories\")",
+      "Bash(git push)",
+      "Bash(git add app.py)",
+      "Bash(git commit -m \"Remove score UI, apply exclude filter in real-time on dashboard\")",
+      "Bash(git add config.py app.py)",
+      "Bash(git commit -m \"Add disaster/region exclude keywords; show amount and deadline in list header\")",
+      "Bash(git add app.py scraper.py)",
+      "Bash(git commit -m \"Exclude NPOWEB newsletter digest articles \\(No.XXX / 新着XX件 pattern\\)\")"
     ]
   }
 }
