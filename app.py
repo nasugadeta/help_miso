@@ -1,6 +1,7 @@
 """助成金ダッシュボード - Streamlit アプリ"""
 import streamlit as st
 import json
+import re
 from pathlib import Path
 from datetime import datetime, date
 from config import EXCLUDE_KEYWORDS
@@ -53,12 +54,20 @@ def load_grants() -> dict:
 
 
 def apply_exclude_filter(grants: list) -> list:
-    """除外キーワードを含む助成金をリアルタイムで除外。"""
+    """除外キーワード・まとめ記事パターンをリアルタイムで除外。"""
     result = []
     for g in grants:
-        target = g.get("name", "") + g.get("categories", "")
-        if not any(kw in target for kw in EXCLUDE_KEYWORDS):
-            result.append(g)
+        name = g.get("name", "")
+        # メールマガジンまとめ記事を除外
+        if re.match(r"^No\.\d+", name):
+            continue
+        if "新着" in name and "件" in name:
+            continue
+        # 除外キーワードチェック
+        target = name + g.get("categories", "")
+        if any(kw in target for kw in EXCLUDE_KEYWORDS):
+            continue
+        result.append(g)
     return result
 
 

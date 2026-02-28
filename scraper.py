@@ -324,6 +324,10 @@ def scrape_npoweb_rss() -> list[dict]:
             link = entry.get("link", "")
             summary_raw = entry.get("summary", entry.get("description", ""))
 
+            # メールマガジンのまとめ記事を除外（「No.XXX」「【新着XX件】」パターン）
+            if re.match(r"^No\.\d+", title) or "新着" in title and "件" in title:
+                continue
+
             # 助成金関連のエントリのみ
             combined = title + summary_raw
             if not any(kw in combined for kw in ["助成", "補助", "奨励", "支援金", "基金"]):
