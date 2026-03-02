@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01 02:53:31",
+  "last_updated": "2026-03-02 02:41:13",
   "grants": [
     {
       "id": "canpan_42d936b52d",
@@ -7,7 +7,7 @@
       "url": "https://fields.canpan.info/grant/detail/312",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-03-01",
+      "found_date": "2026-03-02",
       "summary": "「寄贈プログラム」とは、企業からのリユースPCや周辺機器、ソフトフェアを非営利団体・ボランティア団体などの市民活動団体やNPOへと無償で寄贈し、その情報化を支援するプログラムです。",
       "categories": "すべて対象",
       "deadline": "",
@@ -29,7 +29,7 @@
       "url": "https://fields.canpan.info/grant/detail/409",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-03-01",
+      "found_date": "2026-03-02",
       "summary": "CANPANの助成制度データベース以外にも、参考になる助成制度データベースがいくつかありますので、ご紹介いたします。（CANPAN運営事務局調べ）",
       "categories": "その他",
       "deadline": "",
@@ -51,7 +51,7 @@
       "url": "https://fields.canpan.info/grant/detail/1705",
       "source": "CANPAN",
       "organization": "公益推進協会",
-      "found_date": "2026-03-01",
+      "found_date": "2026-03-02",
       "summary": "この基⾦は、様々な要因から先⾏きが⾮常に不透明で難しい時代に少⼦⾼齢化・⼈⼝減少の進んだ地域社会で、⼦どもたちによりよい・安⼼できる場と時間を提供し、地域のつながりの再⽣を⽬指して活動する市⺠団体を⽀援することを⽬的とします。",
       "categories": "子どもの健全育成、NPO支援",
       "deadline": "2026-03-18",
@@ -78,7 +78,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-03-01",
+      "found_date": "2026-03-02",
       "relevance_score": 3,
       "matched_keywords": [
         "教育",
@@ -99,7 +99,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-03-01",
+      "found_date": "2026-03-02",
       "relevance_score": 3,
       "matched_keywords": [
         "NPO",
@@ -114,7 +114,7 @@
       "url": "https://fields.canpan.info/grant/detail/2390",
       "source": "CANPAN",
       "organization": "日本フィランソロピック財団",
-      "found_date": "2026-03-01",
+      "found_date": "2026-03-02",
       "summary": "じりつチャレンジ基金は、企業や団体に所属する若い世代のビジネスパーソンの、個人による、未来創発につながる自発的な学びのチャレンジ＝「じりつチャレンジ」で、且つ、本気度が高く、斬新な学びのチャレンジ活動を金銭面から応援します。",
       "categories": "すべて対象",
       "deadline": "2026-03-16",
@@ -129,6 +129,86 @@
       "is_new": false
     },
     {
+      "id": "jfc_dfc895de66",
+      "name": "高齢・地域共生社会助成［実践的課題研究・若手実践的課題研究助成］",
+      "url": "https://jyosei-navi.jfc.or.jp/search/search/assist/view/qovZLkA2NmP6xM4j",
+      "source": "助成財団センター",
+      "organization": "",
+      "summary": "",
+      "categories": "",
+      "deadline": "",
+      "status": "要確認",
+      "amount_text": "",
+      "amount_value": null,
+      "found_date": "2026-03-02",
+      "relevance_score": 2,
+      "matched_keywords": [
+        "地域"
+      ],
+      "region": "指定なし",
+      "is_new": true
+    },
+    {
+      "id": "jfc_66968434d7",
+      "name": "高齢・地域共生社会助成［地域福祉チャレンジ活動助成］",
+      "url": "https://jyosei-navi.jfc.or.jp/search/search/assist/view/w5MNlPqLZmkabjZ1",
+      "source": "助成財団センター",
+      "organization": "",
+      "summary": "",
+      "categories": "",
+      "deadline": "",
+      "status": "要確認",
+      "amount_text": "",
+      "amount_value": null,
+      "found_date": "2026-03-02",
+      "relevance_score": 2,
+      "matched_keywords": [
+        "地域"
+      ],
+      "region": "指定なし",
+      "is_new": true
+    },
+    {
+      "id": "jfc_b098299455",
+      "name": "高齢・地域共生社会助成［実践的課題研究・若手実践的課題研究助成］",
+      "url": "https://www.jfc.or.jp/news_subsidy/?p=14804",
+      "source": "助成財団センター",
+      "organization": "",
+      "summary": "",
+      "categories": "",
+      "deadline": "",
+      "status": "要確認",
+      "amount_text": "",
+      "amount_value": null,
+      "found_date": "2026-03-02",
+      "relevance_score": 2,
+      "matched_keywords": [
+        "地域"
+      ],
+      "region": "指定なし",
+      "is_new": true
+    },
+    {
+      "id": "jfc_6dd83ff247",
+      "name": "高齢・地域共生社会助成［地域福祉チャレンジ活動助成］",
+      "url": "https://www.jfc.or.jp/news_subsidy/?p=14801",
+      "source": "助成財団センター",
+      "organization": "",
+      "summary": "",
+      "categories": "",
+      "deadline": "",
+      "status": "要確認",
+      "amount_text": "",
+      "amount_value": null,
+      "found_date": "2026-03-02",
+      "relevance_score": 2,
+      "matched_keywords": [
+        "地域"
+      ],
+      "region": "指定なし",
+      "is_new": true
+    },
+    {
       "id": "jfc_ddf6b562d9",
       "name": "令和８（２０２６）年度住まいとコミュニティづくり活動助成　公募のご案内",
       "url": "http://www.jfc.or.jp/news_grant/?p=13735",
@@ -140,7 +220,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-03-01",
+      "found_date": "2026-03-02",
       "relevance_score": 2,
       "matched_keywords": [
         "コミュニティ"
@@ -160,7 +240,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-03-01",
+      "found_date": "2026-03-02",
       "relevance_score": 2,
       "matched_keywords": [
         "社会課題"
@@ -180,7 +260,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-03-01",
+      "found_date": "2026-03-02",
       "relevance_score": 2,
       "matched_keywords": [
         "学生"
