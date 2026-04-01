@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-31 02:54:46",
+  "last_updated": "2026-04-01 03:25:14",
   "grants": [
     {
       "id": "canpan_18fde2aafd",
@@ -7,7 +7,7 @@
       "url": "https://fields.canpan.info/grant/detail/2402",
       "source": "CANPAN",
       "organization": "パブリックリソース財団",
-      "found_date": "2026-03-31",
+      "found_date": "2026-04-01",
       "summary": "本事業を通じて、支援対象団体が「自立した資金支援の担い手」としての組織体制を確立し、助成プログラム開発、公募審査、伴走支援、事業評価、出口戦略等の一連の業務に対する考え方とノウハウを習得し、休眠預金活用事業における2027年度助成事業・通常枠第1回に資金分配団体として申請できること、支援終了までに自立的な助成事業の実施が可能になることを目指し、以下の支援プログラムを提供します。",
       "categories": "NPO支援、その他",
       "deadline": "2026-04-08",
@@ -33,7 +33,7 @@
       "url": "https://fields.canpan.info/grant/detail/312",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-03-31",
+      "found_date": "2026-04-01",
       "summary": "「寄贈プログラム」とは、企業からのリユースPCや周辺機器、ソフトフェアを非営利団体・ボランティア団体などの市民活動団体やNPOへと無償で寄贈し、その情報化を支援するプログラムです。",
       "categories": "すべて対象",
       "deadline": "",
@@ -55,7 +55,7 @@
       "url": "https://fields.canpan.info/grant/detail/409",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-03-31",
+      "found_date": "2026-04-01",
       "summary": "CANPANの助成制度データベース以外にも、参考になる助成制度データベースがいくつかありますので、ご紹介いたします。（CANPAN運営事務局調べ）",
       "categories": "その他",
       "deadline": "",
@@ -83,7 +83,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-03-31",
+      "found_date": "2026-04-01",
       "relevance_score": 3,
       "matched_keywords": [
         "教育",
@@ -104,7 +104,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-03-31",
+      "found_date": "2026-04-01",
       "relevance_score": 3,
       "matched_keywords": [
         "NPO",
@@ -125,33 +125,13 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-03-31",
+      "found_date": "2026-04-01",
       "relevance_score": 2,
       "matched_keywords": [
         "NPO"
       ],
       "region": "指定なし",
       "is_new": false
-    },
-    {
-      "id": "jfc_f4340959ab",
-      "name": "地域保健福祉研究助成",
-      "url": "https://www.jfc.or.jp/news_subsidy/?p=14816",
-      "source": "助成財団センター",
-      "organization": "",
-      "summary": "",
-      "categories": "",
-      "deadline": "",
-      "status": "要確認",
-      "amount_text": "",
-      "amount_value": null,
-      "found_date": "2026-03-31",
-      "relevance_score": 2,
-      "matched_keywords": [
-        "地域"
-      ],
-      "region": "指定なし",
-      "is_new": true
     },
     {
       "id": "jfc_ddf6b562d9",
@@ -165,7 +145,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-03-31",
+      "found_date": "2026-04-01",
       "relevance_score": 2,
       "matched_keywords": [
         "コミュニティ"
@@ -185,30 +165,10 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-03-31",
+      "found_date": "2026-04-01",
       "relevance_score": 2,
       "matched_keywords": [
         "社会課題"
-      ],
-      "region": "指定なし",
-      "is_new": false
-    },
-    {
-      "id": "jfc_80364d998f",
-      "name": "2026年度　学生による「次世代リーダー育成活動」助成団体募集のご案内",
-      "url": "http://www.jfc.or.jp/news_grant/?p=13444",
-      "source": "助成財団センター",
-      "organization": "",
-      "summary": "",
-      "categories": "",
-      "deadline": "",
-      "status": "要確認",
-      "amount_text": "",
-      "amount_value": null,
-      "found_date": "2026-03-31",
-      "relevance_score": 2,
-      "matched_keywords": [
-        "学生"
       ],
       "region": "指定なし",
       "is_new": false
