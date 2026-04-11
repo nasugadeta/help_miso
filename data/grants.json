@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10 03:23:40",
+  "last_updated": "2026-04-11 02:48:52",
   "grants": [
     {
       "id": "canpan_492935357d",
@@ -7,7 +7,7 @@
       "url": "https://fields.canpan.info/grant/detail/1924",
       "source": "CANPAN",
       "organization": "公益推進協会",
-      "found_date": "2026-04-10",
+      "found_date": "2026-04-11",
       "summary": "当基金は浅井一雄様と奥様の貞子様の寄付により設立された子どもたち応援のための基金です。",
       "categories": "子どもの健全育成、その他",
       "deadline": "2026-05-22",
@@ -24,12 +24,34 @@
       "is_new": false
     },
     {
+      "id": "canpan_bd7f1d22c0",
+      "name": "子どもの居場所デジタル活用サポートプログラム",
+      "url": "https://fields.canpan.info/grant/detail/2415",
+      "source": "CANPAN",
+      "organization": "Kids Code Club",
+      "found_date": "2026-04-11",
+      "summary": "＜＜子どもの居場所デジタル活用サポートプログラム 参加団体募集＞＞",
+      "categories": "子どもの健全育成",
+      "deadline": "2026-05-11",
+      "status": "募集予定",
+      "amount_text": "300,000円",
+      "amount_value": 300000,
+      "relevance_score": 5,
+      "matched_keywords": [
+        "学生",
+        "NPO",
+        "プログラム"
+      ],
+      "region": "指定なし",
+      "is_new": true
+    },
+    {
       "id": "canpan_42d936b52d",
       "name": "イーパーツ寄贈プログラム",
       "url": "https://fields.canpan.info/grant/detail/312",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-04-10",
+      "found_date": "2026-04-11",
       "summary": "「寄贈プログラム」とは、企業からのリユースPCや周辺機器、ソフトフェアを非営利団体・ボランティア団体などの市民活動団体やNPOへと無償で寄贈し、その情報化を支援するプログラムです。",
       "categories": "すべて対象",
       "deadline": "",
@@ -51,7 +73,7 @@
       "url": "https://fields.canpan.info/grant/detail/409",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-04-10",
+      "found_date": "2026-04-11",
       "summary": "CANPANの助成制度データベース以外にも、参考になる助成制度データベースがいくつかありますので、ご紹介いたします。（CANPAN運営事務局調べ）",
       "categories": "その他",
       "deadline": "",
@@ -79,7 +101,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-04-10",
+      "found_date": "2026-04-11",
       "relevance_score": 3,
       "matched_keywords": [
         "教育",
@@ -100,7 +122,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-04-10",
+      "found_date": "2026-04-11",
       "relevance_score": 3,
       "matched_keywords": [
         "NPO",
@@ -110,29 +132,29 @@
       "is_new": false
     },
     {
-      "id": "npoweb_467fbe6139",
-      "name": "【参考】過年度助成金情報アーカイブ",
-      "url": "https://www.npoweb.jp/2026/03/%e3%80%90%e5%8f%82%e8%80%83%e3%80%91%e9%81%8e%e5%b9%b4%e5%ba%a6%e5%8a%a9%e6%88%90%e9%87%91%e6%83%85%e5%a0%b1%e3%82%a2%e3%83%bc%e3%82%ab%e3%82%a4%e3%83%96/",
+      "id": "npoweb_4443dbf03b",
+      "name": "【参考】過年度助成金情報一覧アーカイブ",
+      "url": "https://www.npoweb.jp/2026/04/%e3%80%90%e5%8f%82%e8%80%83%e3%80%91%e9%81%8e%e5%b9%b4%e5%ba%a6%e5%8a%a9%e6%88%90%e9%87%91%e6%83%85%e5%a0%b1%e4%b8%80%e8%a6%a7%e3%82%a2%e3%83%bc%e3%82%ab%e3%82%a4%e3%83%96/",
       "source": "NPOWEB",
       "organization": "",
-      "summary": "◇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◇過年度助成金情報アーカイブ（2024年末締切分～）◇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◇ セイエンのメルマガ等でご紹介 […]\nThe post 【参考】過年度助成金情報アーカイブ first appeared on NPOWEB.",
+      "summary": "◇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◇過年度助成金情報アーカイブ（2024年末締切分～）◇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◇ セイエンのメルマガ等でご紹介 […]\nThe post 【参考】過年度助成金情報一覧アーカイブ first appeared on NPOWEB.",
       "categories": "",
       "deadline": "",
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-04-10",
+      "found_date": "2026-04-11",
       "relevance_score": 2,
       "matched_keywords": [
         "NPO"
       ],
       "region": "指定なし",
-      "is_new": false
+      "is_new": true
     },
     {
-      "id": "jfc_d5f7efe364",
-      "name": "NPO法人助成事業（清水基金）",
-      "url": "https://jyosei-navi.jfc.or.jp/search/search/assist/view/GQ6XABaA7rBwmayZ",
+      "id": "jfc_e56ce0a541",
+      "name": "お世話やUSHIBA基金～若者の依存症と心の健康を支援～",
+      "url": "https://jyosei-navi.jfc.or.jp/search/search/assist/view/YzaW8BGqDLkJGj06",
       "source": "助成財団センター",
       "organization": "",
       "summary": "",
@@ -141,33 +163,13 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-04-10",
+      "found_date": "2026-04-11",
       "relevance_score": 2,
       "matched_keywords": [
-        "NPO"
+        "若者"
       ],
       "region": "指定なし",
-      "is_new": false
-    },
-    {
-      "id": "jfc_f109146108",
-      "name": "NPO法人助成事業（清水基金）",
-      "url": "https://jyosei-navi.jfc.or.jp/search/search/assist/view/rKlOpBNWR83aXwbA",
-      "source": "助成財団センター",
-      "organization": "",
-      "summary": "",
-      "categories": "",
-      "deadline": "",
-      "status": "要確認",
-      "amount_text": "",
-      "amount_value": null,
-      "found_date": "2026-04-10",
-      "relevance_score": 2,
-      "matched_keywords": [
-        "NPO"
-      ],
-      "region": "指定なし",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "jfc_c6875c38ab",
@@ -181,7 +183,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-04-10",
+      "found_date": "2026-04-11",
       "relevance_score": 2,
       "matched_keywords": [
         "学生"
@@ -201,7 +203,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-04-10",
+      "found_date": "2026-04-11",
       "relevance_score": 2,
       "matched_keywords": [
         "学生"
@@ -221,7 +223,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-04-10",
+      "found_date": "2026-04-11",
       "relevance_score": 2,
       "matched_keywords": [
         "コミュニティ"
@@ -241,7 +243,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-04-10",
+      "found_date": "2026-04-11",
       "relevance_score": 2,
       "matched_keywords": [
         "社会課題"
@@ -261,7 +263,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-04-10",
+      "found_date": "2026-04-11",
       "relevance_score": 2,
       "matched_keywords": [
         "学生"
