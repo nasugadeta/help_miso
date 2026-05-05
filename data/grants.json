@@ -1,13 +1,37 @@
 {
-  "last_updated": "2026-05-04 03:49:40",
+  "last_updated": "2026-05-05 03:33:18",
   "grants": [
+    {
+      "id": "canpan_c55b4f8ccf",
+      "name": "Soil 100 for START LINE OSAKA（2026年度）",
+      "url": "https://fields.canpan.info/grant/detail/2432",
+      "source": "CANPAN",
+      "organization": "Soil",
+      "found_date": "2026-05-05",
+      "summary": "社会課題の解決に挑む学生・若手社会人を対象とした起業ワークショップ参加者限定の助成プログラムです。",
+      "categories": "すべて対象",
+      "deadline": "",
+      "status": "募集予定",
+      "amount_text": "5,000,000円",
+      "amount_value": 8000000,
+      "relevance_score": 8,
+      "matched_keywords": [
+        "学生",
+        "地域",
+        "社会課題",
+        "ワークショップ",
+        "プログラム"
+      ],
+      "region": "指定なし",
+      "is_new": true
+    },
     {
       "id": "canpan_5c9ed512ab",
       "name": "「みてね基金」第五期 ステップアップ助成",
       "url": "https://fields.canpan.info/grant/detail/2429",
       "source": "CANPAN",
       "organization": "みてね基金",
-      "found_date": "2026-05-04",
+      "found_date": "2026-05-05",
       "summary": "一般財団法人みてね基金（東京都渋谷区、代表理事：笠原健治）は、「すべての子ども、その家族が幸せに暮らせる世界を目指して」という目標を掲げ、子どもやその家族を取り巻く社会課題の解決に取り組む非営利団体への助成活動を行っています。第五期の公募では、子どもやその家族を取り巻く社会課題に向き合い、地道に活動を続けている非営利団体の事業・組織基盤の強化を支援する「ステップアップ助成」を実施します。",
       "categories": "子どもの健全育成、NPO支援",
       "deadline": "2026-06-17",
@@ -30,7 +54,7 @@
       "url": "https://fields.canpan.info/grant/detail/1924",
       "source": "CANPAN",
       "organization": "公益推進協会",
-      "found_date": "2026-05-04",
+      "found_date": "2026-05-05",
       "summary": "当基金は浅井一雄様と奥様の貞子様の寄付により設立された子どもたち応援のための基金です。",
       "categories": "子どもの健全育成、その他",
       "deadline": "2026-05-22",
@@ -52,7 +76,7 @@
       "url": "https://fields.canpan.info/grant/detail/2415",
       "source": "CANPAN",
       "organization": "Kids Code Club",
-      "found_date": "2026-05-04",
+      "found_date": "2026-05-05",
       "summary": "＜＜子どもの居場所デジタル活用サポートプログラム 参加団体募集＞＞",
       "categories": "子どもの健全育成",
       "deadline": "2026-05-11",
@@ -74,7 +98,7 @@
       "url": "https://fields.canpan.info/grant/detail/312",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-05-04",
+      "found_date": "2026-05-05",
       "summary": "「寄贈プログラム」とは、企業からのリユースPCや周辺機器、ソフトフェアを非営利団体・ボランティア団体などの市民活動団体やNPOへと無償で寄贈し、その情報化を支援するプログラムです。",
       "categories": "すべて対象",
       "deadline": "",
@@ -96,7 +120,7 @@
       "url": "https://fields.canpan.info/grant/detail/409",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-05-04",
+      "found_date": "2026-05-05",
       "summary": "CANPANの助成制度データベース以外にも、参考になる助成制度データベースがいくつかありますので、ご紹介いたします。（CANPAN運営事務局調べ）",
       "categories": "その他",
       "deadline": "",
@@ -124,7 +148,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-05-04",
+      "found_date": "2026-05-05",
       "relevance_score": 3,
       "matched_keywords": [
         "教育",
@@ -145,7 +169,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-05-04",
+      "found_date": "2026-05-05",
       "relevance_score": 3,
       "matched_keywords": [
         "NPO",
@@ -166,7 +190,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-05-04",
+      "found_date": "2026-05-05",
       "relevance_score": 2,
       "matched_keywords": [
         "NPO"
@@ -186,7 +210,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-05-04",
+      "found_date": "2026-05-05",
       "relevance_score": 2,
       "matched_keywords": [
         "コミュニティ"
