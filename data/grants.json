@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26 04:14:52",
+  "last_updated": "2026-06-27 04:00:49",
   "grants": [
     {
       "id": "canpan_c55b4f8ccf",
@@ -7,7 +7,7 @@
       "url": "https://fields.canpan.info/grant/detail/2432",
       "source": "CANPAN",
       "organization": "Soil",
-      "found_date": "2026-06-26",
+      "found_date": "2026-06-27",
       "summary": "社会課題の解決に挑む学生・若手社会人を対象とした起業ワークショップ参加者限定の助成プログラムです。",
       "categories": "すべて対象",
       "deadline": "",
@@ -31,7 +31,7 @@
       "url": "https://fields.canpan.info/grant/detail/312",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-06-26",
+      "found_date": "2026-06-27",
       "summary": "「寄贈プログラム」とは、企業からのリユースPCや周辺機器、ソフトフェアを非営利団体・ボランティア団体などの市民活動団体やNPOへと無償で寄贈し、その情報化を支援するプログラムです。",
       "categories": "すべて対象",
       "deadline": "",
@@ -53,7 +53,7 @@
       "url": "https://fields.canpan.info/grant/detail/409",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-06-26",
+      "found_date": "2026-06-27",
       "summary": "CANPANの助成制度データベース以外にも、参考になる助成制度データベースがいくつかありますので、ご紹介いたします。（CANPAN運営事務局調べ）",
       "categories": "その他",
       "deadline": "",
@@ -81,7 +81,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-06-26",
+      "found_date": "2026-06-27",
       "relevance_score": 3,
       "matched_keywords": [
         "NPO",
@@ -102,30 +102,10 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-06-26",
+      "found_date": "2026-06-27",
       "relevance_score": 2,
       "matched_keywords": [
         "NPO"
-      ],
-      "region": "指定なし",
-      "is_new": false
-    },
-    {
-      "id": "jfc_2f6c8b4501",
-      "name": "教育研究助成",
-      "url": "https://jyosei-navi.jfc.or.jp/search/search/assist/view/871pw3rWerkKgqA0",
-      "source": "助成財団センター",
-      "organization": "",
-      "summary": "",
-      "categories": "",
-      "deadline": "",
-      "status": "要確認",
-      "amount_text": "",
-      "amount_value": null,
-      "found_date": "2026-06-26",
-      "relevance_score": 2,
-      "matched_keywords": [
-        "教育"
       ],
       "region": "指定なし",
       "is_new": false
@@ -142,7 +122,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-06-26",
+      "found_date": "2026-06-27",
       "relevance_score": 2,
       "matched_keywords": [
         "地域"
