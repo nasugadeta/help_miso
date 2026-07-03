@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02 04:04:51",
+  "last_updated": "2026-07-03 03:50:45",
   "grants": [
     {
       "id": "canpan_c55b4f8ccf",
@@ -7,7 +7,7 @@
       "url": "https://fields.canpan.info/grant/detail/2432",
       "source": "CANPAN",
       "organization": "Soil",
-      "found_date": "2026-07-02",
+      "found_date": "2026-07-03",
       "summary": "社会課題の解決に挑む学生・若手社会人を対象とした起業ワークショップ参加者限定の助成プログラムです。",
       "categories": "すべて対象",
       "deadline": "",
@@ -26,12 +26,34 @@
       "is_new": false
     },
     {
+      "id": "canpan_259ea5525f",
+      "name": "2026年度「子どもたちの“こころを育む活動”」大募集　（注）助成制度ではございません。",
+      "url": "https://fields.canpan.info/grant/detail/2472",
+      "source": "CANPAN",
+      "organization": "パナソニック教育財団",
+      "found_date": "2026-07-03",
+      "summary": "パナソニック教育財団が主催する「こころを育む総合フォーラム」では、今年も未来を担う子どもたちの健やかな心の成長のために、「子どもたちの“こころを育む活動”」を募集します。今回も、各界の第一線で活躍されているフォーラムメンバー１０名の選考により、際立った活動に賞状と賞金を贈ります。コロナ禍で休止していた活動やオンラインの活動も対象になります。また、他薦による応募もできます。心温まる活動のご応募をお待ちしています。",
+      "categories": "子どもの健全育成",
+      "deadline": "2026-09-03",
+      "status": "募集中",
+      "amount_text": "1件あたりの上限額：",
+      "amount_value": 500000,
+      "relevance_score": 6,
+      "matched_keywords": [
+        "家庭",
+        "教育",
+        "地域"
+      ],
+      "region": "指定なし",
+      "is_new": true
+    },
+    {
       "id": "canpan_42d936b52d",
       "name": "イーパーツ寄贈プログラム",
       "url": "https://fields.canpan.info/grant/detail/312",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-07-02",
+      "found_date": "2026-07-03",
       "summary": "「寄贈プログラム」とは、企業からのリユースPCや周辺機器、ソフトフェアを非営利団体・ボランティア団体などの市民活動団体やNPOへと無償で寄贈し、その情報化を支援するプログラムです。",
       "categories": "すべて対象",
       "deadline": "",
@@ -53,7 +75,7 @@
       "url": "https://fields.canpan.info/grant/detail/409",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-07-02",
+      "found_date": "2026-07-03",
       "summary": "CANPANの助成制度データベース以外にも、参考になる助成制度データベースがいくつかありますので、ご紹介いたします。（CANPAN運営事務局調べ）",
       "categories": "その他",
       "deadline": "",
@@ -81,7 +103,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-07-02",
+      "found_date": "2026-07-03",
       "relevance_score": 3,
       "matched_keywords": [
         "NPO",
@@ -102,7 +124,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-07-02",
+      "found_date": "2026-07-03",
       "relevance_score": 2,
       "matched_keywords": [
         "NPO"
@@ -122,7 +144,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-07-02",
+      "found_date": "2026-07-03",
       "relevance_score": 2,
       "matched_keywords": [
         "地域"
