@@ -1,13 +1,38 @@
 {
-  "last_updated": "2026-07-03 03:50:45",
+  "last_updated": "2026-07-04 03:42:24",
   "grants": [
+    {
+      "id": "canpan_fac5a64151",
+      "name": "2026年度 移民・難民支援基金（第8回）",
+      "url": "https://fields.canpan.info/grant/detail/2474",
+      "source": "CANPAN",
+      "organization": "パブリックリソース財団",
+      "found_date": "2026-07-04",
+      "summary": "深刻化する移民・難民課題に向き合う小規模団体や当事者団体を支援",
+      "categories": "その他",
+      "deadline": "2026-08-03",
+      "status": "募集中",
+      "amount_text": "1団体あたり上限80万円　単年度の助成になります（※最長3年まで連続して採択可能）",
+      "amount_value": 3200000,
+      "relevance_score": 11,
+      "matched_keywords": [
+        "家族",
+        "若者",
+        "教育",
+        "地域",
+        "NPO",
+        "プログラム"
+      ],
+      "region": "指定なし",
+      "is_new": true
+    },
     {
       "id": "canpan_c55b4f8ccf",
       "name": "Soil 100 for START LINE OSAKA（2026年度）",
       "url": "https://fields.canpan.info/grant/detail/2432",
       "source": "CANPAN",
       "organization": "Soil",
-      "found_date": "2026-07-03",
+      "found_date": "2026-07-04",
       "summary": "社会課題の解決に挑む学生・若手社会人を対象とした起業ワークショップ参加者限定の助成プログラムです。",
       "categories": "すべて対象",
       "deadline": "",
@@ -31,7 +56,7 @@
       "url": "https://fields.canpan.info/grant/detail/2472",
       "source": "CANPAN",
       "organization": "パナソニック教育財団",
-      "found_date": "2026-07-03",
+      "found_date": "2026-07-04",
       "summary": "パナソニック教育財団が主催する「こころを育む総合フォーラム」では、今年も未来を担う子どもたちの健やかな心の成長のために、「子どもたちの“こころを育む活動”」を募集します。今回も、各界の第一線で活躍されているフォーラムメンバー１０名の選考により、際立った活動に賞状と賞金を贈ります。コロナ禍で休止していた活動やオンラインの活動も対象になります。また、他薦による応募もできます。心温まる活動のご応募をお待ちしています。",
       "categories": "子どもの健全育成",
       "deadline": "2026-09-03",
@@ -45,7 +70,7 @@
         "地域"
       ],
       "region": "指定なし",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "canpan_42d936b52d",
@@ -53,7 +78,7 @@
       "url": "https://fields.canpan.info/grant/detail/312",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-07-03",
+      "found_date": "2026-07-04",
       "summary": "「寄贈プログラム」とは、企業からのリユースPCや周辺機器、ソフトフェアを非営利団体・ボランティア団体などの市民活動団体やNPOへと無償で寄贈し、その情報化を支援するプログラムです。",
       "categories": "すべて対象",
       "deadline": "",
@@ -75,7 +100,7 @@
       "url": "https://fields.canpan.info/grant/detail/409",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-07-03",
+      "found_date": "2026-07-04",
       "summary": "CANPANの助成制度データベース以外にも、参考になる助成制度データベースがいくつかありますので、ご紹介いたします。（CANPAN運営事務局調べ）",
       "categories": "その他",
       "deadline": "",
@@ -103,7 +128,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-07-03",
+      "found_date": "2026-07-04",
       "relevance_score": 3,
       "matched_keywords": [
         "NPO",
@@ -124,13 +149,33 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-07-03",
+      "found_date": "2026-07-04",
       "relevance_score": 2,
       "matched_keywords": [
         "NPO"
       ],
       "region": "指定なし",
       "is_new": false
+    },
+    {
+      "id": "jfc_45a9a35ccc",
+      "name": "2026年度九州地域NGO活動助成金",
+      "url": "https://jyosei-navi.jfc.or.jp/search/search/assist/view/NAQGrkvGEWPWED7m",
+      "source": "助成財団センター",
+      "organization": "",
+      "summary": "",
+      "categories": "",
+      "deadline": "",
+      "status": "要確認",
+      "amount_text": "",
+      "amount_value": null,
+      "found_date": "2026-07-04",
+      "relevance_score": 2,
+      "matched_keywords": [
+        "地域"
+      ],
+      "region": "指定なし",
+      "is_new": true
     },
     {
       "id": "jfc_ef494422ac",
@@ -144,7 +189,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-07-03",
+      "found_date": "2026-07-04",
       "relevance_score": 2,
       "matched_keywords": [
         "地域"
