@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06 04:07:30",
+  "last_updated": "2026-07-07 03:58:38",
   "grants": [
     {
       "id": "canpan_fac5a64151",
@@ -7,7 +7,7 @@
       "url": "https://fields.canpan.info/grant/detail/2474",
       "source": "CANPAN",
       "organization": "パブリックリソース財団",
-      "found_date": "2026-07-06",
+      "found_date": "2026-07-07",
       "summary": "深刻化する移民・難民課題に向き合う小規模団体や当事者団体を支援",
       "categories": "その他",
       "deadline": "2026-08-03",
@@ -32,7 +32,7 @@
       "url": "https://fields.canpan.info/grant/detail/2432",
       "source": "CANPAN",
       "organization": "Soil",
-      "found_date": "2026-07-06",
+      "found_date": "2026-07-07",
       "summary": "社会課題の解決に挑む学生・若手社会人を対象とした起業ワークショップ参加者限定の助成プログラムです。",
       "categories": "すべて対象",
       "deadline": "",
@@ -56,7 +56,7 @@
       "url": "https://fields.canpan.info/grant/detail/2472",
       "source": "CANPAN",
       "organization": "パナソニック教育財団",
-      "found_date": "2026-07-06",
+      "found_date": "2026-07-07",
       "summary": "パナソニック教育財団が主催する「こころを育む総合フォーラム」では、今年も未来を担う子どもたちの健やかな心の成長のために、「子どもたちの“こころを育む活動”」を募集します。今回も、各界の第一線で活躍されているフォーラムメンバー１０名の選考により、際立った活動に賞状と賞金を贈ります。コロナ禍で休止していた活動やオンラインの活動も対象になります。また、他薦による応募もできます。心温まる活動のご応募をお待ちしています。",
       "categories": "子どもの健全育成",
       "deadline": "2026-09-03",
@@ -78,7 +78,7 @@
       "url": "https://fields.canpan.info/grant/detail/312",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-07-06",
+      "found_date": "2026-07-07",
       "summary": "「寄贈プログラム」とは、企業からのリユースPCや周辺機器、ソフトフェアを非営利団体・ボランティア団体などの市民活動団体やNPOへと無償で寄贈し、その情報化を支援するプログラムです。",
       "categories": "すべて対象",
       "deadline": "",
@@ -100,7 +100,7 @@
       "url": "https://fields.canpan.info/grant/detail/409",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-07-06",
+      "found_date": "2026-07-07",
       "summary": "CANPANの助成制度データベース以外にも、参考になる助成制度データベースがいくつかありますので、ご紹介いたします。（CANPAN運営事務局調べ）",
       "categories": "その他",
       "deadline": "",
@@ -128,7 +128,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-07-06",
+      "found_date": "2026-07-07",
       "relevance_score": 3,
       "matched_keywords": [
         "NPO",
@@ -138,9 +138,9 @@
       "is_new": false
     },
     {
-      "id": "npoweb_73007d52b8",
+      "id": "npoweb_9d8a80ab03",
       "name": "【随時更新】過年度助成金・顕彰情報一覧アーカイブ",
-      "url": "https://www.npoweb.jp/2026/04/%e3%80%90%e9%9a%8f%e6%99%82%e6%9b%b4%e6%96%b0%e3%80%91%e9%81%8e%e5%b9%b4%e5%ba%a6%e5%8a%a9%e6%88%90%e9%87%91%e3%83%bb%e9%a1%95%e5%bd%b0%e6%83%85%e5%a0%b1%e4%b8%80%e8%a6%a7%e3%82%a2%e3%83%bc%e3%82%ab/",
+      "url": "https://www.npoweb.jp/2026/07/%e3%80%90%e9%9a%8f%e6%99%82%e6%9b%b4%e6%96%b0%e3%80%91%e9%81%8e%e5%b9%b4%e5%ba%a6%e5%8a%a9%e6%88%90%e9%87%91%e3%83%bb%e9%a1%95%e5%bd%b0%e6%83%85%e5%a0%b1%e4%b8%80%e8%a6%a7%e3%82%a2%e3%83%bc%e3%82%ab/",
       "source": "NPOWEB",
       "organization": "",
       "summary": "◇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◇過年度助成金・顕彰情報アーカイブ（2024年末締切分～）◇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◇ セイエンのメルマガ等で […]\nThe post 【随時更新】過年度助成金・顕彰情報一覧アーカイブ first appeared on NPOWEB.",
@@ -149,13 +149,13 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-07-06",
+      "found_date": "2026-07-07",
       "relevance_score": 2,
       "matched_keywords": [
         "NPO"
       ],
       "region": "指定なし",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "jfc_45a9a35ccc",
@@ -169,7 +169,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-07-06",
+      "found_date": "2026-07-07",
       "relevance_score": 2,
       "matched_keywords": [
         "地域"
@@ -189,7 +189,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-07-06",
+      "found_date": "2026-07-07",
       "relevance_score": 2,
       "matched_keywords": [
         "地域"
