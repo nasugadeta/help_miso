@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30 05:15:03",
+  "last_updated": "2026-10-31 04:59:54",
   "grants": [
     {
       "id": "canpan_193af67673",
@@ -7,7 +7,7 @@
       "url": "https://fields.canpan.info/grant/detail/2538",
       "source": "CANPAN",
       "organization": "ハウジングアンドコミュニティ財団",
-      "found_date": "2026-10-30",
+      "found_date": "2026-10-31",
       "summary": "住まいとコミュニティに関する課題に取り組む市民による自発的な地域づくり、住まいづくり活動で、地域住民が主体的に関わる次に掲げるもの。",
       "categories": "まちづくり",
       "deadline": "2027-01-12",
@@ -32,7 +32,7 @@
       "url": "https://fields.canpan.info/grant/detail/2529",
       "source": "CANPAN",
       "organization": "日本フィランソロピック財団",
-      "found_date": "2026-10-30",
+      "found_date": "2026-10-31",
       "summary": "本基金は、大分県内でソーシャルビジネスに取り組むスタートアップを助成金で支援するプログラムを提供します。社会課題の解決を目指す新たな技術やサービスの立ち上げに必要な経費を助成します。特に、大分県の特色に合わせたビジネスモデルの構築に向けた、開発実証や調査、研究などの取り組みを積極的に支援します。",
       "categories": "すべて対象",
       "deadline": "2026-10-31",
@@ -54,7 +54,7 @@
       "url": "https://fields.canpan.info/grant/detail/312",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-10-30",
+      "found_date": "2026-10-31",
       "summary": "「寄贈プログラム」とは、企業からのリユースPCや周辺機器、ソフトフェアを非営利団体・ボランティア団体などの市民活動団体やNPOへと無償で寄贈し、その情報化を支援するプログラムです。",
       "categories": "すべて対象",
       "deadline": "",
@@ -76,7 +76,7 @@
       "url": "https://fields.canpan.info/grant/detail/409",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-10-30",
+      "found_date": "2026-10-31",
       "summary": "CANPANの助成制度データベース以外にも、参考になる助成制度データベースがいくつかありますので、ご紹介いたします。（CANPAN運営事務局調べ）",
       "categories": "その他",
       "deadline": "",
@@ -98,7 +98,7 @@
       "url": "https://fields.canpan.info/grant/detail/2140",
       "source": "CANPAN",
       "organization": "日工組社会安全研究財団",
-      "found_date": "2026-10-30",
+      "found_date": "2026-10-31",
       "summary": "公益財団法人日工組社会安全研究財団は、人々が犯罪と関わりなく安全かつ安心して生活できる社会の実現を目指し、同じ目的を有する団体の活動を助成により支援します。助成は、犯罪の予防活動を中心に、少年非行防止・被害者支援等の活動を対象とします。",
       "categories": "まちづくり、地域安全、子どもの健全育成、NPO支援、その他",
       "deadline": "2026-10-31",
@@ -119,7 +119,7 @@
       "url": "https://fields.canpan.info/grant/detail/2141",
       "source": "CANPAN",
       "organization": "日工組社会安全研究財団",
-      "found_date": "2026-10-30",
+      "found_date": "2026-10-31",
       "summary": "公益財団法人日工組社会安全研究財団は、人々が犯罪と関わりなく安全かつ安心して生活できる社会の実現を目指し、同じ目的を有する団体の活動を助成により支援します。助成は、犯罪の予防活動を中心に、少年非行防止・被害者支援等の活動を対象とします。",
       "categories": "まちづくり、地域安全、子どもの健全育成、NPO支援、その他",
       "deadline": "2026-10-31",
@@ -135,6 +135,27 @@
       "is_new": false
     },
     {
+      "id": "jfc_2cb08fac51",
+      "name": "タイにおける子どもたちへの日本語教育支援プログラム〈現地日本語教員の日本及び本国での研修〉",
+      "url": "https://jyosei-navi.jfc.or.jp/search/search/assist/view/A5JvGPg9j83ozwbX",
+      "source": "助成財団センター",
+      "organization": "",
+      "summary": "",
+      "categories": "",
+      "deadline": "",
+      "status": "要確認",
+      "amount_text": "",
+      "amount_value": null,
+      "found_date": "2026-10-31",
+      "relevance_score": 3,
+      "matched_keywords": [
+        "教育",
+        "プログラム"
+      ],
+      "region": "指定なし",
+      "is_new": true
+    },
+    {
       "id": "jfc_c04a122548",
       "name": "タイにおける子どもたちへの日本語教育支援プログラム〈現地日本語教員の日本及び本国での研修〉",
       "url": "https://jyosei-navi.jfc.or.jp/search/search/assist/view/9Lx4dPKEbd32gOb7",
@@ -146,14 +167,14 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-10-30",
+      "found_date": "2026-10-31",
       "relevance_score": 3,
       "matched_keywords": [
         "教育",
         "プログラム"
       ],
       "region": "指定なし",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jfc_6bc4879b89",
@@ -167,7 +188,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-10-30",
+      "found_date": "2026-10-31",
       "relevance_score": 3,
       "matched_keywords": [
         "教育",
@@ -188,33 +209,13 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-10-30",
+      "found_date": "2026-10-31",
       "relevance_score": 3,
       "matched_keywords": [
         "NPO",
         "プログラム"
       ],
       "region": "指定なし",
-      "is_new": false
-    },
-    {
-      "id": "canpan_b9daa16248",
-      "name": "2026年度 トヨタ財団 特定課題「人口減少と日本社会」",
-      "url": "https://fields.canpan.info/grant/detail/2340",
-      "source": "CANPAN",
-      "organization": "トヨタ財団",
-      "found_date": "2026-10-30",
-      "summary": "以下(1)～(4)の助成分野において、検証や分析を行い、その結果に基づいて将来を見据えた新たな計画や提議を創出する取り組み（2年間または3年間）",
-      "categories": "その他",
-      "deadline": "2026-10-30",
-      "status": "募集中",
-      "amount_text": "45,000,000円",
-      "amount_value": 50220000,
-      "relevance_score": 2,
-      "matched_keywords": [
-        "地域"
-      ],
-      "region": "国内",
       "is_new": false
     },
     {
@@ -229,7 +230,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-10-30",
+      "found_date": "2026-10-31",
       "relevance_score": 2,
       "matched_keywords": [
         "NPO"
@@ -238,9 +239,9 @@
       "is_new": false
     },
     {
-      "id": "jfc_76bc5570ce",
+      "id": "jfc_10cf246919",
       "name": "児童教育実践についての研究助成",
-      "url": "https://jyosei-navi.jfc.or.jp/search/search/assist/view/v1XZJko9R0BbKW8r",
+      "url": "https://jyosei-navi.jfc.or.jp/search/search/assist/view/n2rVl38Np6PODGew",
       "source": "助成財団センター",
       "organization": "",
       "summary": "",
@@ -249,7 +250,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-10-30",
+      "found_date": "2026-10-31",
       "relevance_score": 2,
       "matched_keywords": [
         "教育"
@@ -269,7 +270,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-10-30",
+      "found_date": "2026-10-31",
       "relevance_score": 2,
       "matched_keywords": [
         "教育"
@@ -289,7 +290,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-10-30",
+      "found_date": "2026-10-31",
       "relevance_score": 2,
       "matched_keywords": [
         "教育"
