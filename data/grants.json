@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01 05:28:48",
+  "last_updated": "2026-11-02 05:27:16",
   "grants": [
     {
       "id": "canpan_193af67673",
@@ -7,11 +7,11 @@
       "url": "https://fields.canpan.info/grant/detail/2538",
       "source": "CANPAN",
       "organization": "ハウジングアンドコミュニティ財団",
-      "found_date": "2026-11-01",
+      "found_date": "2026-11-02",
       "summary": "住まいとコミュニティに関する課題に取り組む市民による自発的な地域づくり、住まいづくり活動で、地域住民が主体的に関わる次に掲げるもの。",
       "categories": "まちづくり",
       "deadline": "2027-01-12",
-      "status": "募集予定",
+      "status": "募集中",
       "amount_text": "1件あたりの上限額：",
       "amount_value": 20940000,
       "relevance_score": 11,
@@ -32,7 +32,7 @@
       "url": "https://fields.canpan.info/grant/detail/312",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-11-01",
+      "found_date": "2026-11-02",
       "summary": "「寄贈プログラム」とは、企業からのリユースPCや周辺機器、ソフトフェアを非営利団体・ボランティア団体などの市民活動団体やNPOへと無償で寄贈し、その情報化を支援するプログラムです。",
       "categories": "すべて対象",
       "deadline": "",
@@ -54,7 +54,7 @@
       "url": "https://fields.canpan.info/grant/detail/409",
       "source": "CANPAN",
       "organization": "",
-      "found_date": "2026-11-01",
+      "found_date": "2026-11-02",
       "summary": "CANPANの助成制度データベース以外にも、参考になる助成制度データベースがいくつかありますので、ご紹介いたします。（CANPAN運営事務局調べ）",
       "categories": "その他",
       "deadline": "",
@@ -82,7 +82,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-11-01",
+      "found_date": "2026-11-02",
       "relevance_score": 3,
       "matched_keywords": [
         "教育",
@@ -103,7 +103,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-11-01",
+      "found_date": "2026-11-02",
       "relevance_score": 3,
       "matched_keywords": [
         "教育",
@@ -124,7 +124,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-11-01",
+      "found_date": "2026-11-02",
       "relevance_score": 3,
       "matched_keywords": [
         "教育",
@@ -145,7 +145,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-11-01",
+      "found_date": "2026-11-02",
       "relevance_score": 3,
       "matched_keywords": [
         "NPO",
@@ -166,30 +166,10 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-11-01",
+      "found_date": "2026-11-02",
       "relevance_score": 2,
       "matched_keywords": [
         "NPO"
-      ],
-      "region": "指定なし",
-      "is_new": false
-    },
-    {
-      "id": "jfc_10cf246919",
-      "name": "児童教育実践についての研究助成",
-      "url": "https://jyosei-navi.jfc.or.jp/search/search/assist/view/n2rVl38Np6PODGew",
-      "source": "助成財団センター",
-      "organization": "",
-      "summary": "",
-      "categories": "",
-      "deadline": "",
-      "status": "要確認",
-      "amount_text": "",
-      "amount_value": null,
-      "found_date": "2026-11-01",
-      "relevance_score": 2,
-      "matched_keywords": [
-        "教育"
       ],
       "region": "指定なし",
       "is_new": false
@@ -206,7 +186,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-11-01",
+      "found_date": "2026-11-02",
       "relevance_score": 2,
       "matched_keywords": [
         "教育"
@@ -226,7 +206,7 @@
       "status": "要確認",
       "amount_text": "",
       "amount_value": null,
-      "found_date": "2026-11-01",
+      "found_date": "2026-11-02",
       "relevance_score": 2,
       "matched_keywords": [
         "教育"
